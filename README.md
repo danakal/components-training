@@ -1,4 +1,4 @@
-# myfirstapp
+# components-training
 
 ## Project setup
 ```
